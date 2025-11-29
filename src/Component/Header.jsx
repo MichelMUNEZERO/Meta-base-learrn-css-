@@ -13,7 +13,7 @@ export default function Header() {
           <div className="placeholder"></div>
 
           <div className="dot"></div>
-          <div className="dot color2"></div>
+          <div className="dot color3"></div>
           <div className="dot color3"></div>
           <div className="dot"></div>
           <div className="dot color2"></div>
