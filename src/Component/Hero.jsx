@@ -12,7 +12,7 @@ export default function Hero() {
           <div className="hero-text">
             <h1 className="hero-heading">
               Turn endless questions <br />
-              <span>into answers</span>
+              <span> into answers </span>
             </h1>
           </div>
           <div className="button-first">

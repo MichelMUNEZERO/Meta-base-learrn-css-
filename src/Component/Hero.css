@@ -19,11 +19,14 @@
   font-size: 36px;
   font-weight: bold;
   color: #333333;
+  margin-bottom: 20px;
+  font-size: 50px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 .hero-heading span {
-  color: #007bff;
-  background-color: #84dae0;
-  border: 1px solid #b1c0c7;
+  color: #208afc;
+  background-color: #c8e3ff;
+  border: 1px solid #b3d8ff;
   border-radius: 8px;
   padding: 10px 40px;
   margin: 0 8px;
@@ -40,9 +43,10 @@
 }
 .button-first button {
   background-color: #007bff;
+  font-weight: bold;
+  font-size: small;
   color: #ffffff;
   padding: 12px 24px;
-  font-size: 16px;
   border: none;
   border-radius: 4px;
   cursor: pointer;
@@ -57,7 +61,8 @@
   background-color: #0056b3;
 }
 .button-first button:nth-child(2):hover {
-  background-color: rgba(0, 123, 255, 0.1);
+  background-color: #007bff;
+  color: #ffffff;
 }
 .trial-section {
   display: flex;
