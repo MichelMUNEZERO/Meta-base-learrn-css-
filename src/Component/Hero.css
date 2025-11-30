@@ -145,3 +145,18 @@
 .container-paragraph p {
   margin: 0; /* remove default spacing */
 }
+.overview-section {
+  background-color: #dfd4d4;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  padding: 4px 2px;
+  margin: 0 auto;
+  max-width: 15000px;
+  border-radius: 50px;
+  max-width: 75%;
+  height: 75%;
+}
+.overview-image img {
+  max-width: 75%;
+}

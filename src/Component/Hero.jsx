@@ -109,8 +109,8 @@ export default function Hero() {
           </div>
         </div>
       </div>
-      <div>
-        <div>
+      <div className="overview-section">
+        <div className="overview-image">
           <img src={heroImage} alt="Hero" />
         </div>
       </div>
