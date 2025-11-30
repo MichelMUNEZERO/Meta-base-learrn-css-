@@ -63,15 +63,16 @@ export default function Hero() {
           </div>
           <div className="container-in">
             <div className="container-image">
-              <img src={mail} alt="Email" />
+              <img src={mail} alt="Mail" />
             </div>
-            <div>
+            <div className="container-paragraph">
               <h4>FWD:Q3 Review</h4>
               <p>
                 I sent a request yesterday about churn modeling. Any updates?
               </p>
             </div>
           </div>
+
           <div className="container-in">
             <div className="container-image">
               <img src={slack} alt="Slack" />
