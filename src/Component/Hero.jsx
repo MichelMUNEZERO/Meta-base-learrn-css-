@@ -6,6 +6,7 @@ import { faCircleCheck, faClock } from "@fortawesome/free-solid-svg-icons";
 import mail from "../assets/mail.png";
 import notion from "../assets/notion.png";
 import slack from "../assets/slack.png";
+import heroImage from "../photo/heroImage.png";
 
 export default function Hero() {
   return (
@@ -106,6 +107,11 @@ export default function Hero() {
               </p>
             </div>
           </div>
+        </div>
+      </div>
+      <div>
+        <div>
+          <img src={heroImage} alt="Hero" />
         </div>
       </div>
     </div>
